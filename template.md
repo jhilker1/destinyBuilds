@@ -1,5 +1,11 @@
 # Build Name
 
+Build Author:
+
+PvE/PvP:
+
+-----
+
 **Subclass**: 
 
 **Branch**: 
@@ -24,3 +30,8 @@
 - Chest:
 - Legs:
 - Class:
+
+### Ideal Perks
+- Perk 1
+- Perk 2
+- Perk 3
