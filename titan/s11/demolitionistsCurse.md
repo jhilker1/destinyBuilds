@@ -1,19 +1,19 @@
-# Oppressive Sins
+# Build Name
 
-Build Author: jhilker
+Build Author:
 
-PvE/PvP: PvE
+PvE/PvP:
 
 -----
 
-**Subclass**: Voidwalker
+**Subclass**: 
 
-**Branch**: Any branch. Use top tree for more damage, or bottom tree for more health regen.
+**Branch**: 
 
 ## Gear
 
 ### Weapons
-- Primary: Witherhoard
+- Primary: Weapon Name (Mod)
 - Secondary: 
 - Heavy:
   
