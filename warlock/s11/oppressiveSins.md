@@ -14,11 +14,11 @@ PvE/PvP: PvE
 
 ### Weapons
 - Primary: Witherhoard
-- Secondary: 
-- Heavy:
+- Secondary: Gnawing Hunger, really any void weapon
+- Heavy: Falling Guillotine
   
 ### Armor
-- Helmet: Armor Name (Armor Element)
+- Helmet: Nezerac's Sin 
 - Arms:
 - Chest:
 - Legs:
@@ -32,6 +32,6 @@ PvE/PvP: PvE
 - Class:
 
 ### Ideal Perks
-- Perk 1
-- Perk 2
+- Demolitionist
+- Ashes to Assets
 - Perk 3
