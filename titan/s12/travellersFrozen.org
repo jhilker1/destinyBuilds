@@ -1,0 +1,37 @@
+* Traveller's Frozen
+
+Build Author: jhilker
+
+PvE/PvP: PvE
+
+-----
+
+*Subclass*: Behemoth
+
+*Branch*: N/A
+
+*Fragments*: WIP
+** Gear
+*** Weapons
+    - Primary: Traveler's Chosen
+    - Secondary: IKELOS Sniper
+    - Heavy: Falling Guillotine
+  
+**** Ideal Perks
+     * Snapshot
+     * Demolitionist
+     
+*** Armor
+    - Helmet: Armor Name (Armor Element)
+    - Arms:
+    - Chest:
+    - Legs:
+    - Class:
+
+*** Mods
+    - Helmet: 
+    - Arms:
+    - Chest:
+    - Legs:
+    - Class:
+
