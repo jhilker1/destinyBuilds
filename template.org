@@ -1,0 +1,37 @@
+* Build Name
+
+Build Author:
+
+PvE/PvP:
+
+-----
+
+*Subclass*: 
+
+*Branch*: 
+
+*Fragments*:
+** Gear
+*** Weapons
+    - Primary: Weapon Name (Mod)
+    - Secondary: 
+    - Heavy:
+  
+**** Ideal Perks
+     * Perk 1
+     * Perk 2
+     * Perk 3
+*** Armor
+    - Helmet: Armor Name (Armor Element)
+    - Arms:
+    - Chest:
+    - Legs:
+    - Class:
+
+*** Mods
+    - Helmet: 
+    - Arms:
+    - Chest:
+    - Legs:
+    - Class:
+
