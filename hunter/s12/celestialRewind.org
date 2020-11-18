@@ -1,0 +1,30 @@
+* Celestial Rewind
+
+Build Author: jhilker
+
+PvE/PvP: PvE
+
+-----
+
+*Subclass*: Gunslinger
+
+*Branch*: Bottom Tree (Way of the Sharpshooter)
+
+*Fragments*: N/A
+** Gear
+*** Weapons
+    - Primary: No Time To Explain
+    - Secondary: anything, really - primarily using NTTE. Maybe a sniper
+    - Heavy: again, anything
+  
+**** Ideal Perks
+     * Outlaw
+     * Thresh
+     * Wellspring (for melee)
+*** Armor
+    - Helmet: Celestial Nighthawk (Solar - Intellect Mod)
+    - Arms: Outlander's Grip (while levelling)
+    - Chest: Wild Hunt Vest (levelling)
+    - Legs: Mythos Hack 4.1 (levelling)
+    - Class: War Mantis Cloak (levelling)
+
